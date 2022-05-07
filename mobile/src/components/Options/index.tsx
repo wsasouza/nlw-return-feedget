@@ -1,10 +1,10 @@
 import React from 'react';
 import { Text, View } from 'react-native';
-import { Copyright } from '../Copyright';
 
+import { Copyright } from '../Copyright';
 import { feedbackTypes } from '../../utils/feedbackTypes';
-import { styles } from './styles';
 import { Option } from '../Option';
+import { styles } from './styles';
 
 export function Options() {
   return (
